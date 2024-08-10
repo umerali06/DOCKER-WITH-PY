@@ -6,4 +6,4 @@ COPY ./doc.py .
 
 CMD ["python","./doc.py"]
 
-LABEL org.opencontainers.image.source https://github.com/OWNER/REPO
+LABEL org.opencontainers.image.source https://github.com/umerali06/DOCKER-WITH-PY
