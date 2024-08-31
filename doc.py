@@ -10,3 +10,6 @@ no2 = int(input("Enter the Second no:"))
 result = no1+no2
 
 print(f"The result of the Two numbers are : {result}")
+
+
+
